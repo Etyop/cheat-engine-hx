@@ -7,6 +7,7 @@
 <h1 align="center">Cheat Engine</h1>
 
 Cheat Engine HX is a modified version of Cheat Engine to be used with Serial communication through COM ports.
+It is in very early WiP and is not publicly available for the moment.
 
 # Links
 
