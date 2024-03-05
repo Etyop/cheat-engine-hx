@@ -4,7 +4,9 @@
     </a>
 </p>
 
-<h1 align="center">Cheat Engine HX</h1>
+<h1 align="center">Cheat Engine HX (discarded)</h1>
+
+This project has been discarded as I don't need it anymore.
 
 Cheat Engine HX is a modified version of Cheat Engine to be used with Serial communication through COM ports.
 It is in very early WiP and is not publicly available for the moment.
